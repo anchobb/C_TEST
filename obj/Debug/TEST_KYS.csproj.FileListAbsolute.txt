@@ -1,0 +1,10 @@
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\bin\Debug\TEST_KYS.exe.config
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\bin\Debug\TEST_KYS.exe
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\bin\Debug\TEST_KYS.pdb
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.csproj.AssemblyReference.cache
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.Form1.resources
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.Properties.Resources.resources
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.csproj.GenerateResource.cache
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.csproj.CoreCompileInputs.cache
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.exe
+C:\Users\sori2\OneDrive\바탕 화면\TEST_KYS\TEST_KYS\obj\Debug\TEST_KYS.pdb
